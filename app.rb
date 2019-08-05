@@ -1,6 +1,8 @@
 class Application < Sinatra::Base
   # Write your code here!
   
-  post "/greet"
+  post "/greet" 
+  
+  end
 
 end
